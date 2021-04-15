@@ -3,7 +3,6 @@
 # First Assigment from Digital House Data Science course
 
 Based on a dataset provided by a Real Estate Agency, exploration and visualization of data, imputation of missing values when needed
-Creation of a Linear Regression model that can predict price per square meter based on features such as neighborhood, type of property, surface, etc.
 
 ## Install geopandas 
 
