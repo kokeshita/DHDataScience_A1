@@ -1,12 +1,13 @@
 # DHDataScience_A1
 
-# First Assigment from Digital House Data Science course
+## First Assigment from Digital House Data Science course
 
-Based on a dataset provided by a Real Estate Agency, exploration and visualization of data, imputation of missing values when needed
+Based on a dataset provided by a Real Estate Agency, exploration and visualization of data, imputation of missing values when needed.
+
 Data file is too big. You can get it [here](https://drive.google.com/file/d/14gbXtjwMqPHLHzSxkk_iDHsgQUd_CJdN/view?usp=sharing)
 
 
-## Install geopandas 
+### Install geopandas 
 
  - https://towardsdatascience.com/geopandas-101-plot-any-data-with-a-latitude-and-longitude-on-a-map-98e01944b972
  
@@ -14,7 +15,7 @@ Data file is too big. You can get it [here](https://drive.google.com/file/d/14gb
 
  - https://towardsdatascience.com/exploring-and-visualizing-chicago-transit-data-using-pandas-and-bokeh-part-ii-intro-to-bokeh-5dca6c5ced10
 
-## Activate enviroment
+### Activate enviroment
 
 ```
 conda activate dhdsblend
@@ -23,13 +24,13 @@ conda activate dhdsblend
 conda install -c conda-forge geopandas
 conda install -c conda-forge descartes
 ```
-## Geo info
+### Geo info
 - https://www.ign.gob.ar/NuestrasActividades/InformacionGeoespacial/CapasSIG
 
 https://datosgobar.github.io/paquete-apertura-datos/guia-interoperables/#divisiones-o-unidades-territoriales-internas
  Localidades (CSV | JSON)
 
-## Basic GIT Commands
+### Basic GIT Commands
 
 ```
 git fetch
